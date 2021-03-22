@@ -1,0 +1,16 @@
+PODS:
+  - DevValidator (0.1.0)
+
+DEPENDENCIES:
+  - DevValidator (from `../DevValidator`)
+
+EXTERNAL SOURCES:
+  DevValidator:
+    :path: "../DevValidator"
+
+SPEC CHECKSUMS:
+  DevValidator: 86ef53491dbb2d6baaad5bb4a7b1937f8b80bfa5
+
+PODFILE CHECKSUM: 4f1a3ff7a70c1b92fbb7cf79df35d93fb8863094
+
+COCOAPODS: 1.10.0

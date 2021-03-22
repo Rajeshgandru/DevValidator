@@ -1,0 +1,6 @@
+framework module DevValidator {
+  umbrella header "DevValidator-umbrella.h"
+
+  export *
+  module * { export * }
+}
