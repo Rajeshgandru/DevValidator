@@ -6,6 +6,6 @@ target 'ExamplePrj' do
   use_frameworks!
 
   # Pods for ExamplePrj
-  pod "DevValidator", :path => '../DevValidator'
-
+  #pod "DevValidator", :path => '../DevValidator'
+  pod "DevValidator"
 end
